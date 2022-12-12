@@ -1,5 +1,5 @@
-# MRDDPG_mapf_sim
-maddpg_mapf_sim
+# TEM-MADDPG
+TEM-MADDPG_sim
  
  
-Code of the paper  "An efficient deep reinforcement learning-based multi-robot path planning"
+Code of the paper  "Efficient deep reinforcement learning-based multi-robot path planning"
